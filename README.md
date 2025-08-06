@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mathias (@HammerM26)
-- 👀 I’m interested in Mathematics (optimal decision making and statistics) and software development.
-- 🌱 I’m currently writting my master thesis
+- 👨‍🎓 Master of Science in Engineering, specializing in Mathematical Modelling and Computation
+- 🧐 Focusing on Operations Research, Time Series Analysis, Statistics and Machine Learning
 
 <!---
 HammerM26/HammerM26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
